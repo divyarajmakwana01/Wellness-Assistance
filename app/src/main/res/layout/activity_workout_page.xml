@@ -1,0 +1,68 @@
+<!-- res/layout/activity_main.xml -->
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:columnCount="2"
+    android:rowCount="4"
+    android:padding="16dp"
+    android:background="#ffffff"
+    tools:context=".WorkoutPage">
+
+    <Button
+        android:id="@+id/buttonAbs"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_columnWeight="1"
+        android:layout_rowWeight="1"
+        android:text="Abs"/>
+
+    <Button
+        android:id="@+id/buttonBack"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_columnWeight="1"
+        android:layout_rowWeight="1"
+        android:text="Back"/>
+
+    <Button
+        android:id="@+id/buttonBiceps"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_columnWeight="1"
+        android:layout_rowWeight="1"
+        android:text="Biceps"/>
+
+    <Button
+        android:id="@+id/buttonChest"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_columnWeight="1"
+        android:layout_rowWeight="1"
+        android:text="Chest"/>
+
+    <Button
+        android:id="@+id/buttonLegs"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_columnWeight="1"
+        android:layout_rowWeight="1"
+        android:text="Legs"/>
+
+    <Button
+        android:id="@+id/buttonShoulder"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_columnWeight="1"
+        android:layout_rowWeight="1"
+        android:text="Shoulder"/>
+
+    <Button
+        android:id="@+id/buttonTriceps"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_columnWeight="1"
+        android:layout_rowWeight="1"
+        android:text="Triceps"/>
+
+</GridLayout>
