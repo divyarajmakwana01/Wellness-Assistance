@@ -1,3 +1,12 @@
+
+![image](https://github.com/user-attachments/assets/58ac1157-b706-47c1-acc4-ea0562909658)
+
+
+
+
+
+
+
 I developed the Wellness Assistance Android Application for my minor project in college. Developed an innovative Android application aimed at enhancing user fitness and wellness through personalized workout and 
 nutrition management. Key features include:
 
